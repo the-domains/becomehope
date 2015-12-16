@@ -1,0 +1,28 @@
+name: becomehope
+favicon: null
+layout_spectrum: 0.04509768751449883
+typography_spectrum: 0.17825489048846066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23282500938512385
+  lightness: 0.34404306858778
+  saturation: 0.7063281834125519
+  rhythmicContrast: 0.5732287361752242
+purpose: []
