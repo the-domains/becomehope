@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[New Hope Church - Greenwood, IN]]></title>
+        <description><![CDATA[New Hope Church - Greenwood, IN]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 19:47:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Times & Directions Sunday Morning  9:00am Worship Gathering in the Sanctuary (upstairs) Nursery (upstairs next to the Sanctuary) Children's Classes (downstairs)  10:30am Worship Gathering in the Sanctuary (upstairs) Nursery (upstairs next to the Sanctuary) Children's Classes (downstairs) Middle School (upstairs)  Our worship center and nursery are located upstairs and are most easily accessed through the upper parking lot. If you have kindergarten through preschool age children and would like to check them into our children's programs then the front entrance on the lower level is the best way to go. Be sure and come a few minutes early for a free cup of coffee upstairs in the cafe.     Directions  We are between Morgantown and Hwy. 37 on Fairview Rd. Driving Directions 5307 W. Fairview Rd. Greenwood, IN 46142</p>]]></description>
+            <link>http://becomehope.com/~hopegree/times.php</link>
+            <guid isPermaLink="false">a86eb875-1413-48ec-88e0-7f036e5c3c72</guid>
+            <pubDate>Wed, 16 Dec 2015 19:47:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
