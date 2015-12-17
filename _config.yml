@@ -1,6 +1,6 @@
 name: becomehope
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.87793
 typography_spectrum: 0.1485
 title: 'New Hope Church - Greenwood, IN'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9a8777'
     - '#b21c15'
     - '#bebebd'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  brandStrength: 0
+  lightness: 0.375
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
