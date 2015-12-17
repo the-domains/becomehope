@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'BECOME: Biblically Equipped Community On Mission Everywhere New Hope Church seeks to BECOME a Biblically Equipped Community On Mission Everywhere:  Biblically E'
-datePublished: '2015-12-17T15:44:29.017Z'
-dateModified: '2015-12-17T15:42:38.310Z'
+datePublished: '2015-12-17T15:45:15.316Z'
+dateModified: '2015-12-17T15:45:06.495Z'
 author: []
 title: BECOME
 sourcePath: _posts/2015-12-16-become-biblically-equipped-community-on-mission-everywhere.md
